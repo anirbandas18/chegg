@@ -1,0 +1,2 @@
+CS*2430,0.5,OO Programming,CS*2500
+CS*2750,0.75,Software Systems Development and Integration,CS*2520:CS*2430

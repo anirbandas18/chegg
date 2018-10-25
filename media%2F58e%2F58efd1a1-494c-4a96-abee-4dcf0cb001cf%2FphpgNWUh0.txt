@@ -1,0 +1,11 @@
+201820 Kate West kwest@email.com Music Arts
+201821 Julie McLain jmclaingemail.com Finance Business
+201822 Tom Elrich telrich@email.com Sculpture Arts
+201823 Mark Smith msmith@email.com Biology Science
+201824 Ian Foster ifosterOemail.com Physics Science
+201825 Zhilei Wang awangaemail.com Finance Business
+201826 Matt Knight mknght@email.com Music Arts
+201827 Sohn Smith thaemail.com CS ComputerScience
+201829 Craig Cam.II ccambellaemail.com Linguistics Humanitie
+201829 Mike Williams mwilliamsaemail.com MUSIC Art
+201830 Sane Reid jreidgemail.com Physics Science

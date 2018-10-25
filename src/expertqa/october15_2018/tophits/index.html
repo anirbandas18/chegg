@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Top Hits</title>
+<!-- Bootstrap CSS -->
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="ui.js"></script>
+</head>
+<body class="container">
+	<div class=form-inline>
+		<div class="form-group">
+			<input type="file" id="top-30-file" name="top-30-file"
+				accept="text/xml" class="form-control" /> <input type="button"
+				onclick="parseAction()" value="Parse" class="btn btn-default">
+		</div>
+	</div>
+	<div class="row" >
+		<table class="table table-condensed" id="top-30-list">
+			<thead>
+				<tr>
+					<th>Rank</th>
+					<th>Artist</th>
+					<th>Track</th>
+					<th>Duration</th>
+				</tr>
+			</thead>
+		</table>
+	</div>
+</body>
+</html>
